@@ -1,2 +1,2 @@
 # javascript
- curde javascript do cursoemvideo
+ curse javascript do cursoemvideo
